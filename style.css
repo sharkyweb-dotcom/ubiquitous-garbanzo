@@ -1,0 +1,36 @@
+* {
+    text-align: center;
+    margin: auto;
+}
+
+html {
+    background-image: linear-gradient(to bottom right, rgb(144, 223, 255), rgb(170, 255, 213));
+}
+
+h1 {
+    color: red;
+    font-family: 'Geostar';
+}
+
+p, input {
+    display: inline-block;
+    font-family: 'Shadows Into Light';
+    color: navy;
+}
+
+#submit {
+    display: block;
+}
+
+#lastq {
+    margin-top: 0;
+}
+
+h4 {
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+#practice {
+    border: 1px solid blue;
+}
